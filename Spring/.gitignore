@@ -14,7 +14,6 @@ out/
 # IntelliJ IDEA
 *.iws
 /out/
-*.iml
 
 # User-specific configurations
 .idea/caches/
@@ -27,7 +26,6 @@ out/
 .idea/copyright/profiles_settings.xml
 .idea/encodings.xml
 .idea/misc.xml
-.idea/modules.xml
 .idea/scopes/scope_settings.xml
 .idea/dictionaries
 .idea/vcs.xml
